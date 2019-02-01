@@ -4,7 +4,7 @@ The lab guide and attached files have been created to leverage terraform to depl
 
 ```
 1.  Two VNETs - 1 for VM-Series Firewall components and another with k8s components
-2.  VM-Series Firewall
+2.  Bootstrapped VM-Series Firewall
 3.  AKS cluster with multiple two tier web application and front end application gateway and k8s internal load balancer
 4.  North/South traffic enforcement 
 ```
